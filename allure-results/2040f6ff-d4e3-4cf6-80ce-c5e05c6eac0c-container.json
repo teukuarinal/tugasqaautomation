@@ -1,0 +1,1 @@
+{"uuid":"2040f6ff-d4e3-4cf6-80ce-c5e05c6eac0c","name":"qaautomation.tugas4.BaseWebTest.setUp","description":"","start":1654119013598,"stop":1654119020448,"children":["d5e8c00e-5e97-4fde-bd2f-afcfa79d62d7"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","start":1654119013599,"stop":1654119020447}]}

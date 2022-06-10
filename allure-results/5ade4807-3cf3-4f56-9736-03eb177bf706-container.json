@@ -1,0 +1,1 @@
+{"uuid":"5ade4807-3cf3-4f56-9736-03eb177bf706","name":"qaautomation.tugas3.BaseWebTest.tearDown","description":"","start":1653782097788,"stop":1653782097871,"children":["8bc38b87-f276-4be9-bea7-b1be622af706"],"afters":[{"name":"tearDown","status":"passed","stage":"finished","description":"","start":1653782097788,"stop":1653782097871}]}
