@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 import qaautomation.tugas4.pages.InboxPageFactory;
 import qaautomation.tugas4.pages.LoginPageFactory;
 
-public class WebTestYopMail extends BaseWebTest {
+public class WebTestYopMail extends BaseWebTestHeadless {
 
 	@Test
 	public void testLogin() {

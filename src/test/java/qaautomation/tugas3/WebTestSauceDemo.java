@@ -10,7 +10,7 @@ import qaautomation.tugas3.pages.LoginPageFactory;
 import qaautomation.tugas3.pages.OverviewPageFactory;
 import qaautomation.tugas3.pages.ProfilePageFactory;
 
-public class WebTestSauceDemo extends BaseWebTest {
+public class WebTestSauceDemo extends BaseWebTestHeadless {
 
 	@Test
 	public void testLogin() {
