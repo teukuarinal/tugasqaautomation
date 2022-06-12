@@ -1,0 +1,7 @@
+#surefire_0
+#Sun Jun 12 15:13:25 ICT 2022
+basedir=C\:\\Users\\Anonymous\\eclipse-workspace\\tugasqaautomation
+user.dir=C\:\\Users\\Anonymous\\eclipse-workspace\\tugasqaautomation
+suiteXmlFile=WebSuite.xml
+env=stage
+localRepository=C\:\\Users\\Anonymous\\.m2\\repository

@@ -1,0 +1,1 @@
+{"uuid":"7115c054-f0e5-40fb-8fcd-92a304527ed3","name":"qaautomation.tugas5.BaseAPITest.login","description":"","start":1655021664794,"stop":1655021664850,"children":["3a9f600f-91a6-4ea8-b5d6-415e944cae2b"],"befores":[{"name":"login","status":"passed","stage":"finished","description":"","start":1655021664794,"stop":1655021664850}]}
